@@ -5,6 +5,20 @@
       "bundler": "metro"
     },
     "name": "jobs",
-    "slug": "jobs"
+    "slug": "jobs-search-app",
+    "extra": {
+      "eas": {
+        "projectId": "919f24e7-eafb-49fe-af42-d4a781e2906c"
+      }
+    },
+    "owner": "charlesbatista",
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/919f24e7-eafb-49fe-af42-d4a781e2906c"
+    },
+    "android": {},
+    "ios": {}
   }
 }
