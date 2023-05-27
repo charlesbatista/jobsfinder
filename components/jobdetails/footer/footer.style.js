@@ -35,7 +35,7 @@ const styles = StyleSheet.create({
     justifyContent: "center",
     alignItems: "center",
     marginLeft: SIZES.medium,
-    borderRadius: SIZES.medium,
+    borderRadius: SIZES.medium
   },
   applyBtnText: {
     fontSize: SIZES.medium,
